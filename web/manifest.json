@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "flutter_mapp_clean_architecture",
     "short_name": "flutter_mapp_clean_architecture",
+=======
+    "name": "clean_arch",
+    "short_name": "clean_arch",
+>>>>>>> dfbbd48 (dependency injections added)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

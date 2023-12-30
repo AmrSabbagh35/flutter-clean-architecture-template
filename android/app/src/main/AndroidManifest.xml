@@ -1,7 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.flutter_mapp_clean_architecture">
    <application
         android:label="flutter_mapp_clean_architecture"
+=======
+    package="com.example.clean_arch">
+   <application
+        android:label="clean_arch"
+>>>>>>> dfbbd48 (dependency injections added)
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
